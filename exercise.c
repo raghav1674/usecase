@@ -1,6 +1,6 @@
 #include<time.h>
 #include<stdio.h>
-
+// developer did
 int main(){
 
 time_t ltime;
