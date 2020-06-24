@@ -1,7 +1,7 @@
 #include<time.h>
 #include<stdio.h>
 // developer did
-int main(){
+int main()
 
 time_t ltime;
 ltime-time(NULL);
